@@ -1,0 +1,8 @@
+/*
+!.gitignore
+!/build-working-dir.xml
+!/git-commit-portal
+!/modules/
+!/working.dir.properties
+/modules/*
+!/modules/.gitignore
